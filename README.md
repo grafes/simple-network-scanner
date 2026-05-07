@@ -20,7 +20,7 @@ If a connection is successful, the port is marked as open.
 ```bash
 python3 scanner.py
 
-Example
+## Example Output
 
 Target IP: 127.0.0.1
 Start Port: 1000
@@ -34,8 +34,9 @@ Project Purpose
 
 This project was created to learn basic networking concepts and Python socket programming.
 
-"project ini dibuat saat saya belajar"
 
 ```markdown
+This project was built as part of my journey learning networking and cybersecurity.
+
 ## Author
 - Harits Al Muhasyibi
